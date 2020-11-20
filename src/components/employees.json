@@ -1,0 +1,96 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Captain Molly",
+      "Role": "Firefighter",
+      "Department": "Firefighting ",
+      "Office": 713137137,
+      "Mobile": 3453453453,
+      "Email":  "spongebob@app.com",
+      "Address": "#111  Houston M4B 1B3"
+    },
+    {
+      "id": 2,
+      "name": "F Peterson",
+      "Role": "Detective",
+      "Department": "Firefighting ",
+      "Office": 235345345,
+      "Mobile": 454355,
+      "Email":  "krabs@app.com",
+      "Address": "#222  Houston M4B 1B4"
+    },
+    {
+      "id": 3,
+      "image":"../assets/01.jpg",
+      "name": "Captain JJ",
+      "Role": "Battalion chief",
+      "Department": "Firefighting ",
+      "Office": 23534445,
+      "Mobile": 3534534543,
+      "Email":  "squidward@app.com",
+      "Address": "#333  Houston M4B 1B4"
+    },
+    {
+      "id": 4,
+      "name": "A Anderson",
+      "Role": "Fire chief",
+      "Department": "Firefighting ",
+      "Office": 34534534534,
+      "Mobile": 3453453454,
+      "Email":  "dexter@app.com",
+      "Address": "#444  Houston M4B 1B4"
+    },
+    {
+      "id": 5,
+      "name": "Ross D.",
+      "Role": "Assistant chief ",
+      "Department": "Firefighting",
+      "Office": 3453534535,
+      "Mobile": 345534534534,
+      "Email":  "test@app.com",
+      "Address": "#555  Houston M4B 1B4"
+    },
+    {
+      "id": 6,
+      "name": "Charles Diaz",
+      "Role": "Detective",
+      "Department": "Firefighting ",
+      "Office": 678678678678,
+      "Mobile": 678678678678,
+      "Email":  "doug@app.com",
+      "Address": "#666  Houston M4B 1B4"
+    },
+    {
+      "id": 7,
+      "name": "Tom D.",
+      "Role": "Administration",
+      "Department": "Firefighting ",
+      "Office": 678686786,
+      "Mobile": 67867868678,
+      "Email":  "gina@app.com",
+      "Address": "#777  Houston M4B 1B4"
+    },
+    {
+      "id": 8,
+      "name": "Hailey",
+      "Role": "Administration",
+      "Department": "Firefighting ",
+      "Office": 7697696789789,
+      "Mobile": 78967897897,
+      "Email":  "johny@app.com",
+      "Address": "#888  Houston M4B 1B4"
+    },
+    {
+      "id": 9,
+      "name": "Jose",
+      "Role": "Administration",
+      "Department": "Firefighting ",
+      "Office": 7697978978,
+      "Mobile": 6797897897,
+      "Email":  "tommy@app.com",
+      "Address": "#999  Houston M4B 1B4"
+    }
+  ]
+  
